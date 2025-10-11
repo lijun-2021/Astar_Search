@@ -3,9 +3,9 @@
 #include "input.h"
 #include "node.h"
 #include "petri.h"
-
+//æ³¨é‡Šéœ€è¦å…¨éƒ¨æ›´æ–°
 int main(int argc, char* argv[]) {
-	/* ¶ÁÊı¾İ */
+	/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 	std::vector<int> m0 = readVector<int>(kInitMark);
 	std::vector<int> d0 = readVector<int>(kTimePath);
 	std::vector<int> goals = readVector<int>(kGoalPlace);
@@ -14,11 +14,11 @@ int main(int argc, char* argv[]) {
 	std::vector<vector<int>> pre = readMatrix(kPrePath, m0.size());
 	std::vector<vector<int>> post = readMatrix(kPostPath, m0.size());
 
-	// PetriÍøÄ£ĞÍ
+	// Petriï¿½ï¿½Ä£ï¿½ï¿½
 	PetriNet petri(m0, d0, pre, post, goal_vector, 1);
-	// A*ËÑË÷
+	// A*ï¿½ï¿½ï¿½ï¿½
 	petri.AstarSearch(); 
-	// ¼¯ÊøËÑË÷
+	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	//petri.BeamSearch(60);
 	PetriNet::infoDisplay(&petri);
 
