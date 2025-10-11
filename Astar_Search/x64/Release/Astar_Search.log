@@ -1,0 +1,62 @@
+﻿  main.cpp
+d:\secretfile\code\astar_search\astar_search\input.h(59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(80): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(110): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(111): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\platform\default\string_coding.h(44): warning C4267: “参数”: 从“size_t”转换到“tensorflow::uint32”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\unsupported\eigen\cxx11\src\tensor\tensor.h(76): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\unsupported\eigen\cxx11\src\tensor\tensormap.h(31): note: 参见对正在编译的 类 模板 实例化 "Eigen::Tensor<T,1,1,int>" 的引用
+          with
+          [
+              T=float
+          ]
+  d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\framework\tensor_types.h(105): note: 参见对正在编译的 类 模板 实例化 "Eigen::TensorMap<Eigen::Tensor<T,1,1,int>,16,Eigen::MakePointer>" 的引用
+          with
+          [
+              T=float
+          ]
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\framework\node_def_util.h(120): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\lib\core\arena.h(46): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\graph\graph.h(500): warning C4244: “return”: 从“const tensorflow::int64”转换到“int”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\graph\graph.h(505): warning C4244: “return”: 从“tensorflow::int64”转换到“int”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\graph\graph.h(541): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\lj_treeserch\赋时标签petri网的可达树+astar算法与深度学习结合\libtensorflow-cpu-windows-x86_64-1.10.0-sse2\include\tensorflow\core\graph\graph.h(550): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\tensor.h(38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(92): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(93): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(301): warning C4244: “初始化”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\secretfile\code\astar_search\astar_search\petri.h(374): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(467): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+d:\secretfile\code\astar_search\astar_search\main.cpp(13): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\main.cpp(14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\main.cpp(15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\numeric(26): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  d:\secretfile\code\astar_search\astar_search\petri.h(307): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<short>>>,double,PetriNet::heuristicsFive::<lambda_9be36f4f03c1dbc942fbefa965eb7048>::()::<lambda_7dee8a21b4b2d61cebf6d83dd6d077c7>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int16_t>>>,
+              _Fn=PetriNet::heuristicsFive::<lambda_9be36f4f03c1dbc942fbefa965eb7048>::()::<lambda_7dee8a21b4b2d61cebf6d83dd6d077c7>
+          ]
+  正在生成代码
+  1 of 1699 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Astar_Search.vcxproj -> D:\SecretFiLe\Code\Astar_Search\x64\Release\Astar_Search.exe

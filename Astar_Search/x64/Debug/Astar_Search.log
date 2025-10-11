@@ -1,0 +1,24 @@
+﻿  main.cpp
+d:\secretfile\code\astar_search\astar_search\input.h(48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(84): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(114): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(115): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(86): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(87): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(276): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(310): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\petri.h(396): warning C4244: “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+d:\secretfile\code\astar_search\astar_search\main.cpp(13): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\main.cpp(14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\main.cpp(15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\secretfile\code\astar_search\astar_search\node.h(152): warning C4172: 返回局部变量或临时变量的地址: temp
+d:\secretfile\code\astar_search\astar_search\node.h(154): warning C4172: 返回局部变量或临时变量的地址: temp
+  Astar_Search.vcxproj -> D:\SecretFiLe\Code\Astar_Search\x64\Debug\Astar_Search.exe
