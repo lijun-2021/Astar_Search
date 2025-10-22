@@ -3,7 +3,7 @@
 #include "input.h"
 #include "node.h"
 #include "petri.h"
-//注释需要全部更新
+
 int main(int argc, char* argv[]) {
 	/* ������ */
 	std::vector<int> m0 = readVector<int>(kInitMark);

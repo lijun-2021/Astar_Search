@@ -15,6 +15,7 @@ class NodePool;
 typedef shared_ptr<Node> ptrNode;
 
 /* 存放节点中含有token数的单个库所的信息 */
+//讲解专用
 class Place {
 public:
 	int8_t tokens_;
