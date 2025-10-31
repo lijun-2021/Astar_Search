@@ -17,7 +17,7 @@ int main(int argc, char* argv[]) {
 	// Petri��ģ��
 	PetriNet petri(m0, d0, pre, post, goal_vector, 1);
 	// A*����
-	petri.AstarSearch(); 
+	//petri.AstarSearch(); 
 	// ��������
 	//petri.BeamSearch(60);
 	PetriNet::infoDisplay(&petri);
